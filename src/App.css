@@ -33,3 +33,7 @@
   border: solid thin black;
   border-radius: 5px;
 }
+
+.day {
+  display: inline-block;
+}
